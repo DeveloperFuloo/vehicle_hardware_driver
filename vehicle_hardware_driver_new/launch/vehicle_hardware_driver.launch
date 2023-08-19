@@ -1,0 +1,3 @@
+<launch>
+   <node name="vehicle_hardware_driver" pkg="vehicle_hardware_driver" type="vehicle_hardware_driver" output="screen"/>
+</launch>
